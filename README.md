@@ -348,7 +348,7 @@ SELECT preferences->'theme' FROM user_preferences;
 Contributions and suggestions are welcome!
 
 ## 📄 License
-[Specify your license]
+[MIT ]
 
 ---
 
